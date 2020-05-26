@@ -1,0 +1,115 @@
+    2  ls-a
+    3  cd
+    4  cd desktop
+    5  cd raptor
+    6  cd..
+    7  cd ..
+    8  ls -a
+    9  cd desktop
+   10  cd ..
+   11  mkdir fullstackdev
+   12  cd desktop
+   13  cd fullstackdev
+   14  cd full
+   15  cd fullstackdev
+   16  touch full_stack.txt
+   17  ls
+   18  cat full_stack.txt
+   19  echo "full stack developer" > full_stack.txt
+   20  cat full_stack.txt
+   21  echo "HTML and CSS" > full_stack.txt
+   22  cat full_stack.txt
+   23  echo "Java script" >> full_stack.txt
+   24  cat full_stack.txt
+   25  GNU nano 4.8   full_stack.txt
+   26  nano
+   27  cat full_stack.txt
+   28  nano data.txt
+   29  cat nano data.txt
+   30  cat data.txt
+   31  rm data.txt
+   32  ls
+   33  rm -f data.txt
+   34  mkdir git
+   35  ls
+   36  git init
+   37  git status
+   38  git add full_stack.txt
+   39  git status
+   40  git commit -m "first commit"
+   41  git config --global user.email 'sreejakonduru8@gmail.com'
+   42* git 
+   43  git config --global user.email 
+   44  git config --global user.name
+   45  git config  user.email
+   46  git config  user.name
+   47  nano 
+   48  nano full_stack.txt
+   49  git status
+   50  git add full_stack.txt
+   51  git commit -m "second commit"
+   52  git log
+   53  mkdir full_stack
+   54  ls
+   55  git remote add full_stack https://github.com/sreeja/sreeja-fullstack
+   56  git remote show
+   57  git remote -v
+   58  get pull full_stack master
+   59  git pull full_stack master
+   60  git remote -v
+   61  git remote -v[Agit pull full-stack master
+   62  git remote -v[Agit pull full-stack master
+   63  git remote -v[Agit pull full-stack master
+   64  git remote -v[Agit pull full-stack masteremote -v
+   65  git remote -v[Agit pull full-stack masterls
+   66  git remote -v[Agit pull full-stack masteremote -v
+   67  $ git pull sreeja-fullstcak
+   68  $ git pull sreeja-fullstcak[Cc
+   69  $ git pull sreeja-fullstcak[Cc master
+   70  git remote -v[Agit pull full-stack masteremote -v
+   71  $ git pull sreeja-fullstcak[Cc master$git remote -helpmote
+   72  git remote -v[Agit pull full-stack masteremote -vd ..
+   73  $ cd ..
+   74  git remote -v[Agit pull full-stack masteremote -vd ..[B git pull sreeja-fullstack master
+   75  git remote -v[Agit pull full-stack masteremote -vd ..h-f--set-upstream sreeja-fullstack master
+   76  $ git pull sreeja-fullstcak
+   77  git push  --set-upstream sreeja-fullstack master
+   78  git pull sreeja-fullstack master
+   79  git push -u sreeja-fullstack
+   80  git push  --set-upstream sreeja-fullstack master
+   81  git pull sreeja-fullstack master
+   82  git push -u sreeja-fullstack
+   83  git push  --set-upstream sreeja-fullstack master
+   84  git push -f --set-upstream sreeja-fullstack master
+   85  git push -f --set-upstream sreeja-fullstack master
+   86  git push -f --set-upstream sreeja-fullstack masteer
+   87  git push -f --set-upstream sreeja-fullstack master
+   88  history
+   89  history 88 > gitcommands.txt
+   90  git remote -v
+   91  git remote add full-stack  https://github.com/sreeja1999/fullstack
+   92  git remote show
+   93  git remote -v
+   94  git pull fullstack master
+   95  git push -u fullstack master
+   96  git push  --set-upstream fullstack master
+   97  git push -f --set-upstream fullstack master
+   98  history
+   99  history 98 > gitcommands.txt
+  100  history 98 > gitcommands.txt
+  101  git pull fullstack master
+  102  git push -u fullstack
+  103  git push --set-upstream fullstack master
+  104  mkdir fullstack
+  105  ls
+  106  git remote -help
+  107  git remote add fullstackhttps://github.com/sreeja1999/fullstack
+  108  git remote show
+  109  git remote -v
+  110  git pull fullstack master
+  111  git push -u fullstack
+  112  git push --set-upstream fullstack master
+  113  git push -f --set-upstream full-stack master
+  114  git push -f --set-upstream fullstack master
+  115  history
+  116  history 115 >gitcommands.txt
