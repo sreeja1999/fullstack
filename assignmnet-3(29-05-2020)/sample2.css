@@ -1,0 +1,26 @@
+ul.a{
+    
+    font-size: 20px;    
+    background-color: steelblue;
+}
+
+
+table,th,td{
+    border:2px solid rgb(14,1,50);
+    
+}
+th{
+    height: 50%;
+border-color: tomato;
+}
+th{
+    text-align: center;
+    background-color: grey;
+    
+}
+td{ text-align: center;
+    height: 50px;
+    margin: 5px;
+    padding: 10px;
+    
+}
