@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title> hospital appoinment form</title>  
+        <script>
+            function appoinment()
+            {
+                var name= document.getElementById('t4').value;
+                var age= document.getElementById('t5').value;
+                if(name=='' || from=='' || to=='' || date=='' || age=='')
+                {
+                    alert('please fill all the details');
+                }
+                else
+                {
+                    alert('successful');
+                }
+            }
+        </script>
+    </head>
+    <body bgcolor="lightblue">
+    <form name="appoinment">
+        <a href="project1.html">Home</a>
+        <center>
+        <h1><marquee bgcolor="#0FBF00">appoinment for checkup </marquee> </h1>
+     <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" name="" placeholder="enter name" id="t4"></td></tr>
+         <tr>
+         <td>Age:</td>
+         <td><input type="number" name="" placeholder="enter age" id="t5"></td>
+         </tr> 
+          <tr>
+           <td><input type="submit" value="check availability" onclick="appoinment()"/></td>
+           <td><button onclick=""><a href="project1.html">Cancel</a></button></td></tr>   
+         </table>   
+    </body>
+</html>
